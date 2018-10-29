@@ -1,0 +1,1 @@
+Bash script to automate syncing of Wordpress files and databases between servers. Avoiding WP-CLI for Database dump because of issues when fopen is not available.
